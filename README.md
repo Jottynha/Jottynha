@@ -4,11 +4,6 @@
   <img src="https://imgcdn.agendadigitale.eu/wp-content/uploads/2020/11/14161354/outer-wilds.jpg.webp" width="450px" style="border: 4px solid #0A192F; border-radius: 16px;" alt="Outer Wilds Theme" />
 </p>
 
-<div align="center">
-  <a href="#português">🇧🇷 Português</a> | 
-  <a href="#english-version">🇺🇸 English</a>
-</div>
-
 ---
 
 ## 🇧🇷 Português
