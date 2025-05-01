@@ -36,9 +36,9 @@ Tenho buscado desenvolver minhas habilidades em programação e explorar áreas 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <a href="https://github.com/jprs1308">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jprs1308&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprs1308&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/Jottynha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jottynha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottynha&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
@@ -47,7 +47,7 @@ Tenho buscado desenvolver minhas habilidades em programação e explorar áreas 
 ## 📫 Contato
 
 - ✉️ Email: [jprs1308@gmail.com](mailto:jprs1308@gmail.com)
-- 💼 LinkedIn: *[Em construção]*  
+- 💼 LinkedIn: [João Pedro Rodrigues Silva](https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-silva-19b239363/)  
 - 🌐 GitHub: [github.com/Jottynha](https://github.com/Jottynha)
 
 ---
