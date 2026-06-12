@@ -13,16 +13,21 @@
 
 ## 🧠 Me chamo João Pedro Rodrigues Silva
 
-Sou estudante de Engenharia da Computação no CEFET-MG (Campus Divinópolis), atualmente no 5º período.  
+Sou estudante de Engenharia da Computação no CEFET-MG (Campus Divinópolis), atualmente no 7º período.  
 Tenho buscado desenvolver minhas habilidades em programação e explorar áreas como desenvolvimento de jogos, interfaces gráficas e lógica de programação.
 
 🎯 Busco projetos que unam tecnologia e criatividade, com soluções que envolvam tanto hardware quanto software.
 
 ---
 
-### 🎓 Formação Acadêmica
-- 📚 Engenharia da Computação – CEFET-MG (7º Período)  
-- 🤖 Projeto de Extensão: Prorobot
+### 🎓 Formação e Atividades Acadêmicas
+- 📚 Engenharia da Computação – CEFET-MG (7º Período)
+- 🔬 Voluntário de Iniciação Científica
+- 👨‍🏫 Monitor de Algoritmos e Estruturas de Dados II (AEDS II)
+- 🏆 2º Lugar na META 2025 – CEFET-MG Divinópolis
+- 📄 Apresentação de trabalho no WRE 2025
+- 💻 Integrante do projeto de extensão CEFET++
+- 🎯 Organização da Semana das Engenharias do CEFET-MG
 
 ---
 
@@ -66,16 +71,21 @@ Tenho buscado desenvolver minhas habilidades em programação e explorar áreas 
 
 ## 🧠 I'm João Pedro Rodrigues Silva
 
-I'm a Computer Engineering student at CEFET-MG (Divinópolis Campus), currently in the 5th semester.  
+I'm a Computer Engineering student at CEFET-MG (Divinópolis Campus), currently in the 7th semester.  
 I'm developing my programming skills while exploring areas such as game development, graphical interfaces, and logic.
 
 🎯 I aim to contribute to creative tech projects involving both hardware and software.
 
 ---
 
-### 🎓 Education
-- 📚 Computer Engineering – CEFET-MG – 5th Semester  
-- 🤖 Extension Project: Prorobot
+### 🎓 Academic Activities
+- 📚 Computer Engineering – CEFET-MG (7th Semester)
+- 🔬 Undergraduate Research Student
+- 👨‍🏫 Teaching Assistant for Data Structures and Algorithms II
+- 🏆 META 2025 Award – 2nd Place
+- 📄 Research presentation at WRE 2025
+- 💻 Member of CEFET++ Competitive Programming Project
+- 🎯 Engineering Week Organization Team
 
 ---
 
