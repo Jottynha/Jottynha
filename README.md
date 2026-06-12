@@ -21,7 +21,7 @@ Tenho buscado desenvolver minhas habilidades em programação e explorar áreas 
 ---
 
 ### 🎓 Formação Acadêmica
-- 📚 Engenharia da Computação – CEFET-MG (5º Período)  
+- 📚 Engenharia da Computação – CEFET-MG (7º Período)  
 - 🤖 Projeto de Extensão: Prorobot
 
 ---
